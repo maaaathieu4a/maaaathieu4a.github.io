@@ -17,9 +17,6 @@ description = """
 Bienvenue
 """
 favicon = "static/img/favicon-32.png"
-math = true # for introducing $KaTEX$
-env = "production" # for Google Analytics and DISQUS.
-useChineseFonts = true # for font Noto Serif etc.
 bannerFont = "fonts/exampleFont" # custom your own font for the title.
 
 [menu]

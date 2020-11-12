@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mathieu blog perso</title>
-    <link>https://maaaathieu4a.github.io/post/</link>
-    <description>Recent content on Mathieu blog perso</description>
+    <title>test on Mathieu blog perso</title>
+    <link>https://maaaathieu4a.github.io/tags/test/</link>
+    <description>Recent content in test on Mathieu blog perso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://maaaathieu4a.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maaaathieu4a.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
