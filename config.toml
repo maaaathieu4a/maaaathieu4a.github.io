@@ -45,5 +45,5 @@ series = "series"
     github="http://github.com/maaaathieu4a"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "JSON"]
 
