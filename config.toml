@@ -5,17 +5,21 @@ DefaultContentLanguage = "fr"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "hugo-theme-tokiwa"
-
 title = "Mathieu blog perso"
+author = "Mathieu"
+hasCJKLanguage=true
 
+[markup.goldmark.renderer]
+unsafe= true
 
 [params]
 description = """
-Tokiwa-iro is the theme color of this site.
+Blog perso
 """
-#math = true # for introducing $KaTEX$
-#env = "production" # for Google Analytics and DISQUS.
-#useChineseFonts = true # for font Noto Serif etc.
+favicon = "static/img/favicon-32x32.png"
+math = true # for introducing $KaTEX$
+env = "production" # for Google Analytics and DISQUS.
+useChineseFonts = true # for font Noto Serif etc.
 bannerFont = "fonts/exampleFont" # custom your own font for the title.
 
 [menu]
@@ -30,7 +34,16 @@ bannerFont = "fonts/exampleFont" # custom your own font for the title.
     url = "/about/"
     weight = 2
 
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
 [social]
     instagram = "https://www.instagram.com/maaaathieu4a"
     youtube = "https://www.youtube.com/channel/UCOKCAUjcTEgdy910X3uQyhQ"
     github="http://github.com/maaaathieu4a"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
