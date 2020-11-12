@@ -14,7 +14,7 @@ unsafe= true
 
 [params]
 description = """
-Blog perso
+Bienvenue
 """
 favicon = "static/img/favicon-32.png"
 math = true # for introducing $KaTEX$
