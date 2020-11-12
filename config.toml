@@ -1,0 +1,36 @@
+baseURL = "https://maaaathieu4a.github.io/"
+publishDir = "./post"
+languageCode = "fr"
+DefaultContentLanguage = "fr"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+theme = "hugo-theme-tokiwa"
+
+title = "Mathieu blog perso"
+
+
+[params]
+description = """
+Tokiwa-iro is the theme color of this site.
+"""
+#math = true # for introducing $KaTEX$
+#env = "production" # for Google Analytics and DISQUS.
+#useChineseFonts = true # for font Noto Serif etc.
+bannerFont = "fonts/exampleFont" # custom your own font for the title.
+
+[menu]
+# Shown in the side menu.
+  [[menu.main]]
+    name = "Posts"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[social]
+    instagram = "https://www.instagram.com/maaaathieu4a"
+    youtube = "https://www.youtube.com/channel/UCOKCAUjcTEgdy910X3uQyhQ"
+    github="http://github.com/maaaathieu4a"
