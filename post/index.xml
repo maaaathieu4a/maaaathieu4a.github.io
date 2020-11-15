@@ -1,24 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mathieu blog perso</title>
+    <title>Posts on Mathieu blog perso</title>
     <link>https://maaaathieu4a.github.io/post/</link>
-    <description>Recent content on Mathieu blog perso</description>
+    <description>Recent content in Posts on Mathieu blog perso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://maaaathieu4a.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test article</title>
-      <link>https://maaaathieu4a.github.io/post/hello-world/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <title>Brassin associatif</title>
+      <link>https://maaaathieu4a.github.io/post/brew/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maaaathieu4a.github.io/post/hello-world/</guid>
-      <description>&lt;p&gt;Article test&lt;/p&gt;
-&lt;p&gt;###bonjour&lt;/p&gt;
+      <guid>https://maaaathieu4a.github.io/post/brew/</guid>
+      <description>&lt;p&gt;###WORK IN PROGRESS&lt;/p&gt;
+&lt;p&gt;Petit résumé du procédé de brassage en infusion mono-palier.&lt;/p&gt;
+&lt;h2 id=&#34;les-étapes&#34;&gt;les étapes&lt;/h2&gt;
+&lt;h1 id=&#34;ingrédients-et-recette&#34;&gt;ingrédients et recette&lt;/h1&gt;
+&lt;p&gt;TODO photo malts
+TODO photo houblons
+TODO photo levures&lt;/p&gt;
+&lt;p&gt;#concasage
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/concassage.jpg&#34; alt=&#34;concassage&#34;&gt;
+TODO photo concassage zoom sur les grains&lt;/p&gt;
+&lt;p&gt;#infusion
+après avoir fait chauffé de l&amp;rsquo;eau on plonge tout ensemble en essayant d&amp;rsquo;obtenir une température d&amp;rsquo;environ 67-69°C qui restera stable dans une glacière modifiée.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/infusion-temp.jpg&#34; alt=&#34;infusion-temp&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/infusion.jpg&#34; alt=&#34;infusion&#34;&gt;&lt;/p&gt;
+&lt;!-- ![pause-repas](/static/img/brew/TODO) --&gt;
+&lt;p&gt;#Filtration
+La glacière est modifiée pour avoir un robinet à la base et un filtre (tresse inox) est placé au fond, ce sont surtout les drèches qui vont jouer le rôle du filtre et permettre d&amp;rsquo;obtenir un filtrat plutot clair.
+On repassera dans le filtre les 2-3 premiers litres pour s&amp;rsquo;assurer d&amp;rsquo;un filtrat plus clair.&lt;/p&gt;
+&lt;!-- ![filtration](/static/img/brew/TODO) --&gt;
+&lt;p&gt;#Cuisson
+On souhaite ici une ébullition franche et l&amp;rsquo;on va faire infuser les houblons&lt;/p&gt;
+&lt;!-- ![cuisson](/static/img/brew/TODO) --&gt;
+&lt;p&gt;#Refroidissement
+Il est souhaitable de refroidir le produit final assez rapidement pour éviter TODO&lt;/p&gt;
+&lt;!-- ![séchage](/static/img/brew/TODO) --&gt;
+&lt;p&gt;#Ensemencement et fermentation
+Notre moût est descendu à température ambiante on va pouvoir y ajouter les levures (qui ne supportent pas les hautes températures)
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/ensemencement.jpg&#34; alt=&#34;ensemencement&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/fermentation.jpg&#34; alt=&#34;fermentation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;#Embouteillage
+Vraiment pas la partie la plus fun, un temps énorme étant utilisé pour nettoyer/desinfecter tout le matériel, dont les bouteilles.
+La méthode choisie ici est d&amp;rsquo;utiliser un nettoyant chimique mélangé à l&amp;rsquo;eau et de remplir les bouteilles une première fois avec, puis de les vider et sécher.&lt;/p&gt;
+&lt;!-- ![séchage](/static/img/brew/TODO) --&gt;
+&lt;p&gt;On utilise un tige qui permet de remplir la bouteille par le fond et ainsi éviter la mousse, les étiquettes sont collées avec de la colle en baton, cela tient suffisamment bien avec pour avantage d&#39;être facile à décoller pour la prochaine utilisation de la bouteille.
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/remplissage.jpg&#34; alt=&#34;remplissage&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/encapsuleuse.jpg&#34; alt=&#34;encapsuleuse&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/etiquette.jpg&#34; alt=&#34;résultat&#34;&gt;&lt;/p&gt;
+&lt;p&gt;#Dégustation
+ENFIN!&lt;/p&gt;
+&lt;!-- ![dégustation](/static/img/brew/TODO) --&gt;
+&lt;hr&gt;
+
+&lt;style&gt;
+.canon { background: white; width: 100%; height: auto;}
+&lt;/style&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>pan maison pas cher</title>
+      <link>https://maaaathieu4a.github.io/post/ghetto-homewall/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maaaathieu4a.github.io/post/ghetto-homewall/</guid>
+      <description>&lt;p&gt;Tout a fermé en mars et il était formellement interdit d&amp;rsquo;aller en forêt profiter des bonnes conditions, je n&amp;rsquo;avais pas non-plus envie de trop investir dans ce projet, ce mur a donc été construit essentiellement avec ce que j&amp;rsquo;avais en réserve.
+c&amp;rsquo;est très simple : quelques plaques d&amp;rsquo;OSB traité de 23mm accrochés sur une charpente. C&amp;rsquo;est à 62 degrés avec un toit horizontal en plein milieu à cause d&amp;rsquo;une poutre qui traverse.&lt;/p&gt;
+&lt;p&gt;Pour les prises j&amp;rsquo;ai pu récupérer un vieux set entreprises de mon père. Afin de faire des attaches maison, des écrous sont soudés sur des plaques metalliques vissées derrière le mur, ce qui permet de visser les prises.&lt;/p&gt;
+&lt;p&gt;Toutes les prises en bois sont faites avec du bois de récup&amp;rsquo;, la majorité en chute de planches et bien poncées.&lt;/p&gt;
+&lt;p&gt;un peu plus tard des panneaux d&amp;rsquo;isolation ont été ajoutés, évidemment pas très efficaces au plus fort de l&#39;été mais ça aide quand même.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/IMG_2310.jpg&#34; alt=&#34;wall-space&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/IMG_2341.jpg&#34; alt=&#34;wall-1.0&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/IMG_2447.jpg&#34; alt=&#34;wall&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/IMG_2453.jpg&#34; alt=&#34;wall-detail1&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/IMG_2457.jpg&#34; alt=&#34;wall-detail2&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/IMG_2458.jpg&#34; alt=&#34;wall-detail3&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/IMG_2455.jpg&#34; alt=&#34;wall-final&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Remerciements à mon père pour me prêter l&amp;rsquo;espace et pour son aide précieuse.&lt;/p&gt;
+
+&lt;style&gt;
+.canon { background: white; width: 100%; height: auto;}
+&lt;/style&gt;
+
 </description>
     </item>
     
