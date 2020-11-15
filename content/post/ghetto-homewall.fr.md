@@ -18,7 +18,7 @@ un peu plus tard des panneaux d'isolation ont été ajoutés, évidemment pas tr
 ![wall-space](/static/img/wall/wall-space.jpg)
 ![wall-1.0](/static/img/wall/wall-1.0.jpg)
 ![wall](/static/img/wall/wall.jpg)
-![wall-detail1](/static/img/wall/wall-detail-1.jpg)
+![wall-detail1](/static/img/wall/wall-detail1.jpg)
 ![wall-detail2](/static/img/wall/wall-detail2.jpg)
 ![wall-detail3](/static/img/wall/wall-detail3.jpg)
 ![wall-final](/static/img/wall/wall-final.jpg)

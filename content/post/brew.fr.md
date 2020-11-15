@@ -3,9 +3,10 @@ author = "Mathieu"
 title = "Brassin associatif"
 date = "2020-10-20"
 description = "Animation bénévole d'un atelier"
+draft = true
 +++
 
-###WORK IN PROGRESS
+### WORK IN PROGRESS
 
 Petit résumé du procédé de brassage en infusion mono-palier.
 
