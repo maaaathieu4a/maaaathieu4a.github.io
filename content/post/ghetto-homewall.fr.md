@@ -1,8 +1,8 @@
 +++
 author = "Mathieu"
-title = "pan maison pas cher"
+title = "Un pan d'escalade bon marché"
 date = "2020-09-28"
-description = "pan d'escalade pour s'occuper lors du confinement ce printemps [fr]"
+description = "pan d'entrainement pour s'occuper lors du confinement ce printemps [fr]"
 +++
 
 Tout a fermé en mars et il était formellement interdit d'aller en forêt profiter des bonnes conditions, je n'avais pas non-plus envie de trop investir dans ce projet, ce mur a donc été construit essentiellement avec ce que j'avais en réserve.
@@ -14,13 +14,14 @@ Toutes les prises en bois sont faites avec du bois de récup', la majorité en c
 
 un peu plus tard des panneaux d'isolation ont été ajoutés, évidemment pas très efficaces au plus fort de l'été mais ça aide quand même.
 
-![wall-space](/static/img/wall/IMG_2310.jpg)
-![wall-1.0](/static/img/wall/IMG_2341.jpg)
-![wall](/static/img/wall/IMG_2447.jpg)
-![wall-detail1](/static/img/wall/IMG_2453.jpg)
-![wall-detail2](/static/img/wall/IMG_2457.jpg)
-![wall-detail3](/static/img/wall/IMG_2458.jpg)
-![wall-final](/static/img/wall/IMG_2455.jpg)
+
+![wall-space](/static/img/wall/wall-space.jpg)
+![wall-1.0](/static/img/wall/wall-1.0.jpg)
+![wall](/static/img/wall/wall.jpg)
+![wall-detail1](/static/img/wall/wall-detail-1.jpg)
+![wall-detail2](/static/img/wall/wall-detail2.jpg)
+![wall-detail3](/static/img/wall/wall-detail3.jpg)
+![wall-final](/static/img/wall/wall-final.jpg)
 
 Remerciements à mon père pour me prêter l'espace et pour son aide précieuse.
 

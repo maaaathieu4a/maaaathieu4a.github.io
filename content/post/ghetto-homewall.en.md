@@ -1,6 +1,6 @@
 +++
 author = "Mathieu"
-title = "cheap homewall"
+title = "simple climbing homewall [en]"
 date = "2020-09-28"
 description = "steep wall built during lockdown in France"
 draft = true
@@ -15,13 +15,13 @@ total budget is ridiculous since I had most of these things laying around and ac
 
 At the end some isolating pannels were added to the ceiling, which makes it a bit better but obviously was not helping much on the warmest sunniest days.
 
-![wall-space](/static/img/wall/IMG_2310.jpg)
-![wall-1.0](/static/img/wall/IMG_2341.jpg)
-![wall](/static/img/wall/IMG_2447.jpg)
-![wall-detail1](/static/img/wall/IMG_2453.jpg)
-![wall-detail2](/static/img/wall/IMG_2457.jpg)
-![wall-detail3](/static/img/wall/IMG_2458.jpg)
-![wall-final](/static/img/wall/IMG_2455.jpg)
+![wall-space](/static/img/wall/wall-space.jpg)
+![wall-1.0](/static/img/wall/wall-1.0.jpg)
+![wall](/static/img/wall/wall.jpg)
+![wall-detail1](/static/img/wall/wall-detail-1.jpg)
+![wall-detail2](/static/img/wall/wall-detail2.jpg)
+![wall-detail3](/static/img/wall/wall-detail3.jpg)
+![wall-final](/static/img/wall/wall-final.jpg)
 
 
 Special thanks to my dad for lending me that space and who helped me a lot to bring this wall to life.
