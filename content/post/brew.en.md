@@ -1,7 +1,7 @@
 ---
 title: "Testpost"
 date: 2020-11-15T09:57:35Z
-description = "Animating a brewing workshop"
+description : "Animating a brewing workshop"
 draft: true
 ---
 
