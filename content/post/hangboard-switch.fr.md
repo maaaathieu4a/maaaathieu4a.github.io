@@ -6,7 +6,8 @@ description = "poutre d'entrainement déplaçable et interchangeable "
 +++
 
 Une des règles essentielles pour être régulier à l'entrainement : avoir un endroit accessible et plaisant où le réaliser, avec la météo qui se dégrade j'ai ai envie d'éviter l'humidité extrême et de rentrer au garage.
-[!jardin-poutre](/static/img/hangboard/hb-jardin.jpg)
+![jardin-poutre](/static/img/hangboard/hb-jardin.jpg)
+
 
 Quitte à devoir trouver un nouveau moyen d'accrocher une planche quelque part, je me suis dit que j'allais en profiter pour améliorer un peu le système. Donc j'ai voulu pouvoir déplacer ma poutre d'un endroit à un autre avec en bonus la possibilité de changer de poutre, Le grand luxe, en somme! Cela me permettra également de pouvoir ranger la poutre après utilisation afin d'éviter qu'elle prenne trop l'humidité.
 
@@ -15,14 +16,14 @@ J'ai utilisé pour ça des chutes de planches en contreplaqué de 30mm d'épaiss
 
 La planche de fixation repose ici sur une poutre en métal et est vissée dedans (après taraudage)
 Pas très esthetique, je l'admet, surtout que le bois est plutôt attaqué donc j'ai du envoyer un gros traitement pour éviter qu'il ne se dégrade encore plus, mais ça reste satisfaisant pour un premier test et c'est très fonctionnel.
-[!fixation-poutre](/static/img/hangboard/hb-garage-encoche.jpg)
-[!fixation-poutre](/static/img/hangboard/hb-garage-encoche2.jpg)
+![fixation-poutre](/static/img/hangboard/hb-garage-encoche.jpg)
+![fixation-poutre](/static/img/hangboard/hb-garage-encoche2.jpg)
 
 résultat avec ma poutre :
-[!lattice-hb](/static/img/hangboard/hb-garage-resultat.jpg)
+![lattice-hb](/static/img/hangboard/hb-garage-resultat.jpg)
 
 En changeant pour la Simond de mon frère :
-[!simond-hb](/static/img/hangboard/hb-garage-simond.jpeg)
+![simond-hb](/static/img/hangboard/hb-garage-simond.jpeg)
 
 
 

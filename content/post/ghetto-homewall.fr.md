@@ -1,8 +1,8 @@
 +++
 author = "Mathieu"
-title = "Un pan d'escalade bon marché"
+title = "Un pan d'escalade bon marché [fr]"
 date = "2020-09-28"
-description = "pan d'entrainement pour s'occuper lors du confinement ce printemps [fr]"
+description = "pan d'entrainement pour s'occuper lors du confinement ce printemps"
 +++
 
 Tout a fermé en mars et il était formellement interdit d'aller en forêt profiter des bonnes conditions, je n'avais pas non-plus envie de trop investir dans ce projet, ce mur a donc été construit essentiellement avec ce que j'avais en réserve.
