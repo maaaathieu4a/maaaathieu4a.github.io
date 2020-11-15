@@ -6,10 +6,39 @@
     <description>Recent content in Posts on Mathieu blog perso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://maaaathieu4a.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hangboard de luxe [fr]</title>
+      <link>https://maaaathieu4a.github.io/post/hangboard-switch/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maaaathieu4a.github.io/post/hangboard-switch/</guid>
+      <description>&lt;p&gt;Une des règles essentielles pour être régulier à l&amp;rsquo;entrainement : avoir un endroit accessible et plaisant où le réaliser, avec la météo qui se dégrade j&amp;rsquo;ai ai envie d&#39;éviter l&amp;rsquo;humidité extrême et de rentrer au garage.
+&lt;a href=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-jardin.jpg&#34;&gt;!jardin-poutre&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Quitte à devoir trouver un nouveau moyen d&amp;rsquo;accrocher une planche quelque part, je me suis dit que j&amp;rsquo;allais en profiter pour améliorer un peu le système. Donc j&amp;rsquo;ai voulu pouvoir déplacer ma poutre d&amp;rsquo;un endroit à un autre avec en bonus la possibilité de changer de poutre, Le grand luxe, en somme! Cela me permettra également de pouvoir ranger la poutre après utilisation afin d&#39;éviter qu&amp;rsquo;elle prenne trop l&amp;rsquo;humidité.&lt;/p&gt;
+&lt;p&gt;Après quelques recherches d&amp;rsquo;implémentations éxistantes, je suis parti sur un système simple dans le principe et qui fonctionne plutôt bien : des encoches à 45 degrés qui s&amp;rsquo;emboîtent.
+J&amp;rsquo;ai utilisé pour ça des chutes de planches en contreplaqué de 30mm d&#39;épaisseur.&lt;/p&gt;
+&lt;p&gt;La planche de fixation repose ici sur une poutre en métal et est vissée dedans (après taraudage)
+Pas très esthetique, je l&amp;rsquo;admet, surtout que le bois est plutôt attaqué donc j&amp;rsquo;ai du envoyer un gros traitement pour éviter qu&amp;rsquo;il ne se dégrade encore plus, mais ça reste satisfaisant pour un premier test et c&amp;rsquo;est très fonctionnel.
+&lt;a href=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-encoche.jpg&#34;&gt;!fixation-poutre&lt;/a&gt;
+&lt;a href=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-encoche2.jpg&#34;&gt;!fixation-poutre&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;résultat avec ma poutre :
+&lt;a href=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-resultat.jpg&#34;&gt;!lattice-hb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;En changeant pour la Simond de mon frère :
+&lt;a href=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-simond.jpeg&#34;&gt;!simond-hb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;La suite logique, mais qui attendra un peu sera d&amp;rsquo;installer un système similaire aux autres endroits où je suis susceptible de vouloir m&amp;rsquo;entrainer : au jardin pendant l&#39;été, à l&amp;rsquo;intérieur dans un futur appartement&amp;hellip;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;style&gt;
+.canon { background: white; width: 100%; height: auto;}
+&lt;/style&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Un pan d&#39;escalade bon marché</title>
