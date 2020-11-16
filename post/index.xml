@@ -6,10 +6,40 @@
     <description>Recent content in Posts on Mathieu blog perso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://maaaathieu4a.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>swappable hangboard [en]</title>
+      <link>https://maaaathieu4a.github.io/post/hangboard-switch.en/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maaaathieu4a.github.io/post/hangboard-switch.en/</guid>
+      <description>&lt;p&gt;Everyone knows consistency is the move important part of training, so a pleasant environnment goes a long way.
+With the summer being over I wanted to move my hangboard indoors, it was simply not great anymore to hang it in the garden.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-jardin.jpg&#34; alt=&#34;jardin-poutre&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Since I have multiple spots where I like to hang my board, I thought I could try to implement a system allowing to easily hang it in different places and as a bonus swap multiple hangboards.&lt;/p&gt;
+&lt;p&gt;After looking a bit for some existing solutions, I went for something simple : 2x45degrees incuts that fit together.
+I used scrap wood from 26mm thick plywood planks.&lt;/p&gt;
+&lt;p&gt;The base board is sitting on a metal beam, with a few screws in to make it stable. (after tapping to allow M8 screws)
+Not very aesthetic, gotta say, the wood was also attacked so I treated it, but it&amp;rsquo;s sturdy and functionnal, pretty happy with it for a first try.
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-encoche.jpg&#34; alt=&#34;fixation-poutre&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-encoche2.jpg&#34; alt=&#34;fixation-poutre&#34;&gt;&lt;/p&gt;
+&lt;p&gt;result with my hangboard :
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-resultat.jpg&#34; alt=&#34;lattice-hb&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Swapping it for my brother&amp;rsquo;s :
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-simond.jpeg&#34; alt=&#34;simond-hb&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The next step will be to add a similar system in the garden for next summer and inside of my futur apartment.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;style&gt;
+.canon { background: white; width: 100%; height: auto;}
+&lt;/style&gt;
+
+</description>
+    </item>
     
     <item>
       <title>hangboard de luxe [fr]</title>
@@ -21,17 +51,45 @@
 &lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-jardin.jpg&#34; alt=&#34;jardin-poutre&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Quitte à devoir trouver un nouveau moyen d&amp;rsquo;accrocher une planche quelque part, je me suis dit que j&amp;rsquo;allais en profiter pour améliorer un peu le système. Donc j&amp;rsquo;ai voulu pouvoir déplacer ma poutre d&amp;rsquo;un endroit à un autre avec en bonus la possibilité de changer de poutre, Le grand luxe, en somme! Cela me permettra également de pouvoir ranger la poutre après utilisation afin d&#39;éviter qu&amp;rsquo;elle prenne trop l&amp;rsquo;humidité.&lt;/p&gt;
 &lt;p&gt;Après quelques recherches d&amp;rsquo;implémentations éxistantes, je suis parti sur un système simple dans le principe et qui fonctionne plutôt bien : des encoches à 45 degrés qui s&amp;rsquo;emboîtent.
-J&amp;rsquo;ai utilisé pour ça des chutes de planches en contreplaqué de 30mm d&#39;épaisseur.&lt;/p&gt;
+J&amp;rsquo;ai utilisé pour ça des chutes de planches en contreplaqué de 26mm d&#39;épaisseur.&lt;/p&gt;
 &lt;p&gt;La planche de fixation repose ici sur une poutre en métal et est vissée dedans (après taraudage)
 Pas très esthetique, je l&amp;rsquo;admet, surtout que le bois est plutôt attaqué donc j&amp;rsquo;ai du envoyer un gros traitement pour éviter qu&amp;rsquo;il ne se dégrade encore plus, mais ça reste satisfaisant pour un premier test et c&amp;rsquo;est très fonctionnel.
 &lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-encoche.jpg&#34; alt=&#34;fixation-poutre&#34;&gt;
 &lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-encoche2.jpg&#34; alt=&#34;fixation-poutre&#34;&gt;&lt;/p&gt;
 &lt;p&gt;résultat avec ma poutre :
 &lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-resultat.jpg&#34; alt=&#34;lattice-hb&#34;&gt;&lt;/p&gt;
-&lt;p&gt;En changeant pour la Simond de mon frère :
+&lt;p&gt;En changeant pour celle de mon frère :
 &lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-simond.jpeg&#34; alt=&#34;simond-hb&#34;&gt;&lt;/p&gt;
 &lt;p&gt;La suite logique, mais qui attendra un peu sera d&amp;rsquo;installer un système similaire aux autres endroits où je suis susceptible de vouloir m&amp;rsquo;entrainer : au jardin pendant l&#39;été, à l&amp;rsquo;intérieur dans un futur appartement&amp;hellip;&lt;/p&gt;
 &lt;hr&gt;
+
+&lt;style&gt;
+.canon { background: white; width: 100%; height: auto;}
+&lt;/style&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>simple climbing homewall [en]</title>
+      <link>https://maaaathieu4a.github.io/post/ghetto-homewall.en/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maaaathieu4a.github.io/post/ghetto-homewall.en/</guid>
+      <description>&lt;p&gt;Everything was closed back in march, I didn&amp;rsquo;t want to invest too much money into that project either, so it&amp;rsquo;s essentially built with what was laying around.
+The build is basically a few thick OSB pannels (I know plywood is better, but these are 23mm; enough to be solid and it&amp;rsquo;s inside) screwed directly to the roof frame for a wall that ended up approximately 62 degrees steep. There&amp;rsquo;s a roof feature in the middle because of a beam crossing.&lt;/p&gt;
+&lt;p&gt;For holds I had access to a set of old entreprise holds from my dad. To be able to bolt them, I soldered a nut on a metal plate and screwed that on the backside in order to make some poor man&amp;rsquo;s t-nut.
+Most of the wooden holds are made with scrap wood, crimps are easy to do with plywood.
+total budget is ridiculous since I had most of these things laying around and access to good tools already.&lt;/p&gt;
+&lt;p&gt;At the end some isolating pannels were added to the ceiling, which makes it a bit better but obviously was not helping much on the warmest sunniest days.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/wall-space.jpg&#34; alt=&#34;wall-space&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/wall-1.0.jpg&#34; alt=&#34;wall-1.0&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/wall.jpg&#34; alt=&#34;wall&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/wall-detail-1.jpg&#34; alt=&#34;wall-detail1&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/wall-detail2.jpg&#34; alt=&#34;wall-detail2&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/wall-detail3.jpg&#34; alt=&#34;wall-detail3&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/wall/wall-final.jpg&#34; alt=&#34;wall-final&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Special thanks to my dad for lending me that space and who helped me a lot to bring this wall to life.&lt;/p&gt;
 
 &lt;style&gt;
 .canon { background: white; width: 100%; height: auto;}
