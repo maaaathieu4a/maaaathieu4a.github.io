@@ -2,8 +2,7 @@
 author = "Mathieu"
 title = "simple climbing homewall [en]"
 date = "2020-09-28"
-description = "steep wall built during lockdown in France"
-draft = true
+description = "steep wall built during spring lockdown in France"
 +++
 
 Everything was closed back in march, I didn't want to invest too much money into that project either, so it's essentially built with what was laying around.
