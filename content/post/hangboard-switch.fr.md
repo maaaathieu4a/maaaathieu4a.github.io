@@ -12,7 +12,7 @@ Une des règles essentielles pour être régulier à l'entrainement : avoir un e
 Quitte à devoir trouver un nouveau moyen d'accrocher une planche quelque part, je me suis dit que j'allais en profiter pour améliorer un peu le système. Donc j'ai voulu pouvoir déplacer ma poutre d'un endroit à un autre avec en bonus la possibilité de changer de poutre, Le grand luxe, en somme! Cela me permettra également de pouvoir ranger la poutre après utilisation afin d'éviter qu'elle prenne trop l'humidité.
 
 Après quelques recherches d'implémentations éxistantes, je suis parti sur un système simple dans le principe et qui fonctionne plutôt bien : des encoches à 45 degrés qui s'emboîtent.
-J'ai utilisé pour ça des chutes de planches en contreplaqué de 30mm d'épaisseur.
+J'ai utilisé pour ça des chutes de planches en contreplaqué de 26mm d'épaisseur.
 
 La planche de fixation repose ici sur une poutre en métal et est vissée dedans (après taraudage)
 Pas très esthetique, je l'admet, surtout que le bois est plutôt attaqué donc j'ai du envoyer un gros traitement pour éviter qu'il ne se dégrade encore plus, mais ça reste satisfaisant pour un premier test et c'est très fonctionnel.
@@ -22,7 +22,7 @@ Pas très esthetique, je l'admet, surtout que le bois est plutôt attaqué donc 
 résultat avec ma poutre :
 ![lattice-hb](/static/img/hangboard/hb-garage-resultat.jpg)
 
-En changeant pour la Simond de mon frère :
+En changeant pour celle de mon frère :
 ![simond-hb](/static/img/hangboard/hb-garage-simond.jpeg)
 
 
