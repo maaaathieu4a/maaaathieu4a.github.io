@@ -1,23 +1,27 @@
 +++
 author = "Mathieu"
-title = "Brassin associatif"
+title = "Brassin associatif [fr]"
 date = "2020-10-20"
 description = "Animation bénévole d'un atelier"
-draft = true
 +++
 
-### WORK IN PROGRESS
+###  CHANTIER
+L'idée m'est venue de partager le peu d'expérience et de savoir-faire que j'ai en matière de brassage, pour cela quel meilleur endroit que la section jeune de l'association de mon village qui aime se réunir et partager des bières régulièrement.
 
-Petit résumé du procédé de brassage en infusion mono-palier.
+Nous avons donc planifié plusieurs brassins tout au long de l'année, en comité restreint.
+
+Cet article a pour but d'être un résumé des étapes utilisées, il devrait également pouvoir servir de guide pour les membres de l'atelier.
+Petit résumé du procédé de brassage en infusion mono-palier pour une vingtaine de litres.
 
 
 ## les étapes
 
+<!--
 # ingrédients et recette
 TODO photo malts
 TODO photo houblons
 TODO photo levures
-
+-->
 #concasage
 ![concassage](/static/img/brew/concassage.jpg)
 TODO photo concassage zoom sur les grains
@@ -60,9 +64,10 @@ On utilise un tige qui permet de remplir la bouteille par le fond et ainsi évit
 ![encapsuleuse](/static/img/brew/encapsuleuse.jpg)
 ![résultat](/static/img/brew/etiquette.jpg)
 
+<!--
 #Dégustation
 ENFIN!
-<!-- ![dégustation](/static/img/brew/TODO) -->
+ ![dégustation](/static/img/brew/TODO) -->
 
 
 ---
