@@ -6,101 +6,10 @@
     <description>Recent content in Posts on Mathieu blog perso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://maaaathieu4a.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>swappable hangboard [en]</title>
-      <link>https://maaaathieu4a.github.io/post/hangboard-switch.en/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://maaaathieu4a.github.io/post/hangboard-switch.en/</guid>
-      <description>&lt;p&gt;Everyone knows consistency is the move important part of training, so a pleasant environnment goes a long way.
-With the summer being over I wanted to move my hangboard indoors, it was simply not great anymore to hang it in the garden.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-jardin.jpg&#34; alt=&#34;jardin-poutre&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Since I have multiple spots where I like to hang my board, I thought I could try to implement a system allowing to easily hang it in different places and as a bonus swap multiple hangboards.&lt;/p&gt;
-&lt;p&gt;After looking a bit for some existing solutions, I went for something simple : 2x45degrees incuts that fit together.
-I used scrap wood from 26mm thick plywood planks.&lt;/p&gt;
-&lt;p&gt;The base board is sitting on a metal beam, with a few screws in to make it stable. (after tapping to allow M8 screws)
-Not very aesthetic, gotta say, the wood was also attacked so I treated it, but it&amp;rsquo;s sturdy and functionnal, pretty happy with it for a first try.
-&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-encoche.jpg&#34; alt=&#34;fixation-poutre&#34;&gt;
-&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-encoche2.jpg&#34; alt=&#34;fixation-poutre&#34;&gt;&lt;/p&gt;
-&lt;p&gt;result with my hangboard :
-&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-resultat.jpg&#34; alt=&#34;lattice-hb&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Swapping it for my brother&amp;rsquo;s :
-&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-simond.jpeg&#34; alt=&#34;simond-hb&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The next step will be to add a similar system in the garden for next summer and inside of my futur apartment.&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;style&gt;
-.canon { background: white; width: 100%; height: auto;}
-&lt;/style&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Brewing workshop [en]</title>
-      <link>https://maaaathieu4a.github.io/post/brew-process.en/</link>
-      <pubDate>Sun, 15 Nov 2020 09:57:35 +0000</pubDate>
-      
-      <guid>https://maaaathieu4a.github.io/post/brew-process.en/</guid>
-      <description>&lt;h3 id=&#34;work-in-progress&#34;&gt;WORK IN PROGRESS&lt;/h3&gt;
-&lt;p&gt;I wanted to share a bit my little experience brewing beer with some other people, the idea to make a small workshop came last summer.
-This is a free as in free beer workshop for members of the cultural and sportive association of my village.&lt;/p&gt;
-&lt;p&gt;We planned a few brews all along the year, with a small group of people.&lt;/p&gt;
-&lt;p&gt;This article will cover the bases of the process we are using to brew approximatively 20L batches. It also aims at being a small guide for the participants.&lt;/p&gt;
-&lt;h2 id=&#34;steps&#34;&gt;steps&lt;/h2&gt;
-&lt;!--
-# ingredients and recipe
- TODO photo malts
-TODO photo hops
-TODO photo yeast
---&gt;
-&lt;p&gt;#concasage
-&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/concassage.jpg&#34; alt=&#34;concassage&#34;&gt;
-TODO photo concassage zoom&lt;/p&gt;
-&lt;p&gt;#infusion
-The water is heated separately up to about 73°C, then mixed to the mash in order to obtain a temperature between 67-69°C that will stay stable in our modified picnic cooler.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/infusion-temp.jpg&#34; alt=&#34;infusion-temp&#34;&gt;
-&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/infusion.jpg&#34; alt=&#34;infusion&#34;&gt;&lt;/p&gt;
-&lt;!-- ![pause-repas](/static/img/brew/TODO) --&gt;
-&lt;p&gt;#Filtration
-Our picnic cooler was modified to add a little tap at the bottom and I added a filter at the bottom (stainles steel braid), the biggest filter is actually our mash itself, I usually put the first few liters back in in an attempt to obtain a clearer result.&lt;/p&gt;
-&lt;!-- ![filtration](/static/img/brew/TODO) --&gt;
-&lt;p&gt;#Cooking
-We want to get a guenine boil for 60-90minutes and we&amp;rsquo;ll add in the hops to infuse&lt;/p&gt;
-&lt;!-- ![cuisson](/static/img/brew/TODO) --&gt;
-&lt;p&gt;#Cooling
-It&amp;rsquo;s best to cooldown our resulting beer quicker to avoid oxydation and allow us to add the yeast sooner.&lt;/p&gt;
-&lt;!-- ![séchage](/static/img/brew/TODO) --&gt;
-&lt;p&gt;#Fermentation
-once the soon-to-be-beer is at room temperature we can finally add the yeast and some water in the airlock.
-&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/ensemencement.jpg&#34; alt=&#34;ensemencement&#34;&gt;
-&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/fermentation.jpg&#34; alt=&#34;fermentation&#34;&gt;&lt;/p&gt;
-&lt;p&gt;#Bottling
-Not my favourite part, it takes a huge amount of time to clean/disinfect all material including the bottles.
-I chose to clean bottles by filling them first with a chemical product, then emptying and drying before filling them with beer.&lt;/p&gt;
-&lt;!-- ![séchage](/static/img/brew/TODO) --&gt;
-&lt;p&gt;A trick here is to use this long straw in order to bottom-fill the bottles, this avoids too much foam forming.
-Finally, we printed some labels and stuck them with basic glue stick.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/remplissage.jpg&#34; alt=&#34;remplissage&#34;&gt;
-&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/encapsuleuse.jpg&#34; alt=&#34;encapsuleuse&#34;&gt;
-&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/etiquette.jpg&#34; alt=&#34;résultat&#34;&gt;&lt;/p&gt;
-&lt;!--
-#Dégustation
-FINALLY
- ![dégustation](/static/img/brew/TODO) --&gt;
-&lt;hr&gt;
-
-&lt;style&gt;
-.canon { background: white; width: 100%; height: auto;}
-&lt;/style&gt;
-
-</description>
-    </item>
     
     <item>
       <title>hangboard de luxe [fr]</title>
@@ -122,6 +31,36 @@ Pas très esthetique, je l&amp;rsquo;admet, surtout que le bois est plutôt atta
 &lt;p&gt;En changeant pour celle de mon frère :
 &lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-simond.jpeg&#34; alt=&#34;simond-hb&#34;&gt;&lt;/p&gt;
 &lt;p&gt;La suite logique, mais qui attendra un peu sera d&amp;rsquo;installer un système similaire aux autres endroits où je suis susceptible de vouloir m&amp;rsquo;entrainer : au jardin pendant l&#39;été, à l&amp;rsquo;intérieur dans un futur appartement&amp;hellip;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;style&gt;
+.canon { background: white; width: 100%; height: auto;}
+&lt;/style&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>swappable hangboard [en]</title>
+      <link>https://maaaathieu4a.github.io/post/hangboard-switch.en/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maaaathieu4a.github.io/post/hangboard-switch.en/</guid>
+      <description>&lt;p&gt;Everyone knows consistency is the move important part of training, so a pleasant environnment goes a long way.
+With the summer being over I wanted to move my hangboard indoors, it was simply not great anymore to hang it in the garden.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-jardin.jpg&#34; alt=&#34;jardin-poutre&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Since I have multiple spots where I like to hang my board, I thought I could try to implement a system allowing to easily hang it in different places and as a bonus swap multiple hangboards.&lt;/p&gt;
+&lt;p&gt;After looking a bit for some existing solutions, I went for something simple : 2x45degrees incuts that fit together.
+I used scrap wood from 26mm thick plywood planks.&lt;/p&gt;
+&lt;p&gt;The base board is sitting on a metal beam, with a few screws in to make it stable. (after tapping to allow M8 screws)
+Not very aesthetic, gotta say, the wood was also attacked so I treated it, but it&amp;rsquo;s sturdy and functionnal, pretty happy with it for a first try.
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-encoche.jpg&#34; alt=&#34;fixation-poutre&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-encoche2.jpg&#34; alt=&#34;fixation-poutre&#34;&gt;&lt;/p&gt;
+&lt;p&gt;result with my hangboard :
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-resultat.jpg&#34; alt=&#34;lattice-hb&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Swapping it for my brother&amp;rsquo;s :
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/hangboard/hb-garage-simond.jpeg&#34; alt=&#34;simond-hb&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The next step will be to add a similar system in the garden for next summer and inside of my futur apartment.&lt;/p&gt;
 &lt;hr&gt;
 
 &lt;style&gt;
@@ -182,6 +121,67 @@ La méthode choisie ici est d&amp;rsquo;utiliser un nettoyant chimique mélangé
 &lt;!--
 #Dégustation
 ENFIN!
+ ![dégustation](/static/img/brew/TODO) --&gt;
+&lt;hr&gt;
+
+&lt;style&gt;
+.canon { background: white; width: 100%; height: auto;}
+&lt;/style&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Brewing workshop [en]</title>
+      <link>https://maaaathieu4a.github.io/post/brew-process.en/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maaaathieu4a.github.io/post/brew-process.en/</guid>
+      <description>&lt;h3 id=&#34;work-in-progress&#34;&gt;WORK IN PROGRESS&lt;/h3&gt;
+&lt;p&gt;I wanted to share a bit my little experience brewing beer with some other people, the idea to make a small workshop came last summer.
+This is a free as in free beer workshop for members of the cultural and sportive association of my village.&lt;/p&gt;
+&lt;p&gt;We planned a few brews all along the year, with a small group of people.&lt;/p&gt;
+&lt;p&gt;This article will cover the bases of the process we are using to brew approximatively 20L batches. It also aims at being a small guide for the participants.&lt;/p&gt;
+&lt;h2 id=&#34;steps&#34;&gt;steps&lt;/h2&gt;
+&lt;!--
+# ingredients and recipe
+ TODO photo malts
+TODO photo hops
+TODO photo yeast
+--&gt;
+&lt;p&gt;#concasage
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/concassage.jpg&#34; alt=&#34;concassage&#34;&gt;
+TODO photo concassage zoom&lt;/p&gt;
+&lt;p&gt;#infusion
+The water is heated separately up to about 73°C, then mixed to the mash in order to obtain a temperature between 67-69°C that will stay stable in our modified picnic cooler.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/infusion-temp.jpg&#34; alt=&#34;infusion-temp&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/infusion.jpg&#34; alt=&#34;infusion&#34;&gt;&lt;/p&gt;
+&lt;!-- ![pause-repas](/static/img/brew/TODO) --&gt;
+&lt;p&gt;#Filtration
+Our picnic cooler was modified to add a little tap at the bottom and I added a filter at the bottom (stainles steel braid), the biggest filter is actually our mash itself, I usually put the first few liters back in in an attempt to obtain a clearer result.&lt;/p&gt;
+&lt;!-- ![filtration](/static/img/brew/TODO) --&gt;
+&lt;p&gt;#Cooking
+We want to get a guenine boil for 60-90minutes and we&amp;rsquo;ll add in the hops to infuse&lt;/p&gt;
+&lt;!-- ![cuisson](/static/img/brew/TODO) --&gt;
+&lt;p&gt;#Cooling
+It&amp;rsquo;s best to cooldown our resulting beer quicker to avoid oxydation and allow us to add the yeast sooner.&lt;/p&gt;
+&lt;!-- ![séchage](/static/img/brew/TODO) --&gt;
+&lt;p&gt;#Fermentation
+once the soon-to-be-beer is at room temperature we can finally add the yeast and some water in the airlock.
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/ensemencement.jpg&#34; alt=&#34;ensemencement&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/fermentation.jpg&#34; alt=&#34;fermentation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;#Bottling
+Not my favourite part, it takes a huge amount of time to clean/disinfect all material including the bottles.
+I chose to clean bottles by filling them first with a chemical product, then emptying and drying before filling them with beer.&lt;/p&gt;
+&lt;!-- ![séchage](/static/img/brew/TODO) --&gt;
+&lt;p&gt;A trick here is to use this long straw in order to bottom-fill the bottles, this avoids too much foam forming.
+Finally, we printed some labels and stuck them with basic glue stick.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/remplissage.jpg&#34; alt=&#34;remplissage&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/encapsuleuse.jpg&#34; alt=&#34;encapsuleuse&#34;&gt;
+&lt;img src=&#34;https://maaaathieu4a.github.io/static/img/brew/etiquette.jpg&#34; alt=&#34;résultat&#34;&gt;&lt;/p&gt;
+&lt;!--
+#Dégustation
+FINALLY
  ![dégustation](/static/img/brew/TODO) --&gt;
 &lt;hr&gt;
 
