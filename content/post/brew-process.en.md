@@ -1,24 +1,25 @@
----
-title: "Testpost"
-date: 2020-11-15T09:57:35Z
-description : "Animating a brewing workshop"
-draft: true
----
++++
+title = "Brewing workshop [en]"
+date = 2020-11-15T09:57:35Z
+description = "Animating a brewing workshop"
++++
 
+### WORK IN PROGRESS
+I wanted to share a bit my little experience brewing beer with some other people, the idea to make a small workshop came last summer.
+This is a free as in free beer workshop for members of the cultural and sportive association of my village. 
 
-This is a free as in free beer workshop for members of the cultural and sportive association of my village. First season.
+We planned a few brews all along the year, with a small group of people.
 
-###WORK IN PROGRESS
-
-This article will cover the bases of the process we are using to brew approximatively 20L batches. 
-
+This article will cover the bases of the process we are using to brew approximatively 20L batches. It also aims at being a small guide for the participants.
 
 ## steps
 
+<!--
 # ingredients and recipe
-TODO photo malts
+ TODO photo malts
 TODO photo hops
 TODO photo yeast
+-->
 
 #concasage
 ![concassage](/static/img/brew/concassage.jpg)
@@ -64,9 +65,10 @@ Finally, we printed some labels and stuck them with basic glue stick.
 ![encapsuleuse](/static/img/brew/encapsuleuse.jpg)
 ![résultat](/static/img/brew/etiquette.jpg)
 
+<!--
 #Dégustation
 FINALLY
-<!-- ![dégustation](/static/img/brew/TODO) -->
+ ![dégustation](/static/img/brew/TODO) -->
 
 
 ---
