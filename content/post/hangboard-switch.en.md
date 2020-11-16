@@ -1,7 +1,7 @@
 +++
 author = "Mathieu"
 title = "swappable hangboard [en]"
-date = "2020-11-16"
+date = "2020-11-15"
 description = "a solution to swap and move hangboards around"
 +++
 

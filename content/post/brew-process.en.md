@@ -1,6 +1,6 @@
 +++
 title = "Brewing workshop [en]"
-date = 2020-11-15T09:57:35Z
+date = 2020-10-20
 description = "Animating a brewing workshop"
 +++
 
