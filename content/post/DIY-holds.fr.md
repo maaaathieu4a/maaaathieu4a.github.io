@@ -13,12 +13,12 @@ On cherchera un bois "dur" plutot compact, la plupart des prises que j'ai fabriq
 TODO photo
 
 # Patron de base : un rectangle
-Pour faire simple je découpe généralement en petits rectangles en prenant soin d'avoir un côté
+Pour faire simple je découpe généralement en petits rectangles 
 
 TODO photo
 
 # la prise
-Les deux facteurs principaux à prendre en compte sont l'angle de la prise : plutot positif ou fuyant? Et l'arrondi qui va déterminer quel point notre prise sera "coupante".
+Les deux facteurs principaux à prendre en compte sont l'angle du bord que l'on va tenir : plutot positif ou fuyant? Et l'arrondi qui va déterminer quel point notre prise sera "coupante".
 Plus l'arrondi est grand plus la prise sera confortable, mais au prix de réduire la surface de contact.
 
 Un angle fuyant necessitera de se placer "sous la prise" et d'appliquer une force très directionnelle, à l'inverse ce que j'appelle "positif" permettra de "planter les doigts" et d'appliquer une force en tirant plus vers l'extérieur du mur.
