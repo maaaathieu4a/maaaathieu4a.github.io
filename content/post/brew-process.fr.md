@@ -3,6 +3,7 @@ author = "Mathieu"
 title = "Brassin associatif [fr]"
 date = "2020-10-20"
 description = "Animation bénévole d'un atelier"
+draft = true
 +++
 
 ###  CHANTIER
