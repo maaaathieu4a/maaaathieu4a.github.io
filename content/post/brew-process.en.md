@@ -2,6 +2,7 @@
 title = "Brewing workshop [en]"
 date = 2020-10-20
 description = "Animating a brewing workshop"
+draft = true
 +++
 
 ### WORK IN PROGRESS

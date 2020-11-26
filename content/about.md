@@ -7,7 +7,9 @@ author = "maaaathieu4a"
 +++
 
 
-Page en construction
+Quelques pages pour présenter mes bricolages 
+
+<!-- TODO photo mug? -->
 
 
 
