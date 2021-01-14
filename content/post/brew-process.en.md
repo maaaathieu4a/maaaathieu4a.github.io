@@ -2,7 +2,6 @@
 title = "Brewing workshop [en]"
 date = 2020-10-20
 description = "Animating a brewing workshop"
-draft = true
 +++
 
 ### WORK IN PROGRESS
@@ -10,51 +9,61 @@ I wanted to share a bit my little experience brewing beer with some other people
 This is a free as in free beer workshop for members of the cultural and sportive association of my village. 
 
 We planned a few brews all along the year, with a small group of people.
+Unfortunately we only could do one before more covid-19-related restrictions.
 
 This article will cover the bases of the process we are using to brew approximatively 20L batches. It also aims at being a small guide for the participants.
 
-## steps
+Another one will follow and add some informations about the amount of ingredients to use in order to create a recipe.
+I also plan to publish these into a "zine" in pdf format soon.
 
-<!--
-# ingredients and recipe
- TODO photo malts
-TODO photo hops
-TODO photo yeast
--->
+Note : there are a few missing pictures
 
-#concasage
+## The Steps
+
+# Cleaning
+
+It's very important to always use clean equipment, make sure to clean everything we'll use beforehand. We don't need yet to use desinfectant as we'll cook the whole batch anyways.
+
+# Crushing malt
 ![concassage](/static/img/brew/concassage.jpg)
-TODO photo concassage zoom 
+<!-- TODO photo concassage zoom grains-->
 
-#infusion
+# Infusion
 The water is heated separately up to about 73°C, then mixed to the mash in order to obtain a temperature between 67-69°C that will stay stable in our modified picnic cooler.
 
 ![infusion-temp](/static/img/brew/infusion-temp.jpg)
 ![infusion](/static/img/brew/infusion.jpg)
 
+It's now time to have a well deserved break, I usually try to make this happen around lunchtime.
 
 <!-- ![pause-repas](/static/img/brew/TODO) -->
 
-#Filtration
-Our picnic cooler was modified to add a little tap at the bottom and I added a filter at the bottom (stainles steel braid), the biggest filter is actually our mash itself, I usually put the first few liters back in in an attempt to obtain a clearer result.
+# Filtration
+After 1h30-2h we can start pouring it.
+Our picnic cooler was modified to add a little tap at the bottom as well as a filter inside (stainles steel braid), the biggest filter is actually our mash itself, I usually put the first few liters back in in an attempt to obtain a clearer result.
 
 <!-- ![filtration](/static/img/brew/TODO) -->
 
-#Cooking
-We want to get a guenine boil for 60-90minutes and we'll add in the hops to infuse
+# Cooking
+We want to get a guenine boil for 60-90minutes and we'll add in the hops to infuse at various times.
 <!-- ![cuisson](/static/img/brew/TODO) -->
 
-#Cooling
+
+# Cooling
 It's best to cooldown our resulting beer quicker to avoid oxydation and allow us to add the yeast sooner.
+We use a copper tube with cool water to do that, it's best to move it a bit regularly to make it more effective.
 <!-- ![séchage](/static/img/brew/TODO) -->
 
-#Fermentation
+We can now pour everything into a fermentation bucket that should be disinfected with chemo pro OXI.
+It's possible to add a step in order to avoid hop deposits : into a first bucket with a filter, then in the final one.
+
+# Fermentation
 once the soon-to-be-beer is at room temperature we can finally add the yeast and some water in the airlock.
 ![ensemencement](/static/img/brew/ensemencement.jpg)
 ![fermentation](/static/img/brew/fermentation.jpg)
 
 
-#Bottling
+# Bottling
 Not my favourite part, it takes a huge amount of time to clean/disinfect all material including the bottles.
 I chose to clean bottles by filling them first with a chemical product, then emptying and drying before filling them with beer.
 <!-- ![séchage](/static/img/brew/TODO) -->
