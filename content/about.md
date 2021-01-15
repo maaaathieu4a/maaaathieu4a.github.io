@@ -9,7 +9,5 @@ author = "maaaathieu4a"
 
 Quelques pages pour présenter mes bricolages 
 
-<!-- TODO photo mug? -->
-
 
 
