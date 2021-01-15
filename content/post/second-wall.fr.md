@@ -27,6 +27,6 @@ Ne pas avoir de kickboard (un petit panneau vertical à la base du mur) est bien
 
 # Résultats
 le format est plutot satisfaisant, la surface est assez réduite donc pour profiter d'un peu plus d'espace j'ai fait en sorte que le sommet et les cotés soient utilisables en y ajoutant des prises (non visibles sur les photos)
-![wall2-final](/static/img/holds/wall2-final.JPG)
-![wall2-range](/static/img/holds/wall2-range.JPG)
+![wall2-final](/img/holds/wall2-final.JPG)
+![wall2-range](/img/holds/wall2-range.JPG)
 

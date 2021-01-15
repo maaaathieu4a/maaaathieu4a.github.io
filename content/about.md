@@ -7,7 +7,16 @@ author = "maaaathieu4a"
 +++
 
 
-Quelques pages pour présenter mes bricolages 
 
+Quelques pages pour présenter mes bricolages, 
+<!-- TODO photo ? -->
+
+<!-- TODO  -->
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;[![youtube](/img/icons/youtube32.png "my youtube")](https://youtube.com/maaaathieu4a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![instagram](/img/icons/instagram32.png "my instagram")](https://instagram.com/maaaathieu4a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![github](/img/icons/github32.png "my github")](https://github.com/maaaathieu4a)
 
 

@@ -31,6 +31,6 @@ Finally not having a kickboard is more impacting than I thought, even at such an
 # Results
 It's definitively satisfying, even if it's not perfect it does fulfill all goals.
 The surface is small (240x200cm) so I added holds on the side and top to make them usable.
-![wall2-final](/static/img/holds/wall2-final.JPG)
-![wall2-range](/static/img/holds/wall2-range.JPG)
+![wall2-final](/img/holds/wall2-final.JPG)
+![wall2-range](/img/holds/wall2-range.JPG)
 
