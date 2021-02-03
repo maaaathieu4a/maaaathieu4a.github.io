@@ -22,11 +22,11 @@ To make it easy I usually start from a rectangle or a triangle and pick one side
 There are two main factors about shaping the edge : the bezel and the edge's angle.
 
 A very rounded bezel makes it more comfortable but reduces contact surface
-![very-rounded](/static/img/holds/very-rounded.JPG)
+![very-rounded](/img/holds/very-rounded.JPG)
 
 
 Note that a flat or sloping hold forces you to stay "under the hold" to apply some force on it, on the other end an incut edge allows to pull "out of the wall" like on the following picture
-![very-incut](/static/img/holds/very-incut.JPG)
+![very-incut](/img/holds/very-incut.JPG)
 
 
 # Attaches 
@@ -36,7 +36,7 @@ Plan 2 or 3 screws per hold.
 # Finishes
 
 Not strictly necessary but it's more aesthetic to shape all sides, we also often want to render them unusable or really bad as potentiel footholds, sometimes add a thumb catch too.
-![small-edge](/static/img/holds/small-edge.JPG)
+![small-edge](/img/holds/small-edge.JPG)
 
 Of course we can imagine all sorts of shapes and change a lot of parameters
 

@@ -1,46 +1,46 @@
 baseURL = "https://maaaathieu4a.github.io/"
+theme = "etch-hack"
+title = "Mathieu blog perso"
+author = "Mathieu"
+
 publishDir = "./"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 enableInlineShortcodes = true
-footnoteReturnLinkContents = "^"
-theme = "hugo-theme-tokiwa"
-title = "Mathieu blog perso"
-author = "Mathieu"
-hasCJKLanguage=true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
-[markup.goldmark.renderer]
-unsafe= true
 
 [params]
-description = """
-Bienvenue
-"""
+description = "Bienvenue sur mon blog"
+dark = "auto"
+highlight = "true"
 favicon = "static/img/favicon-32.png"
-bannerFont = "fonts/exampleFont" # custom your own font for the title.
 
 [menu]
-# Shown in the side menu.
   [[menu.main]]
-    name = "Posts"
-    weight = 1
-    identifier = "post"
-    url = "/post/"
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
   [[menu.main]]
-    name = "About"
+    identifier = "about"
+    name = "about"
+    title = "about"
     url = "/about/"
-    weight = 2
+    weight = 20
 
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+#[social]
+#    instagram = "https://www.instagram.com/maaaathieu4a"
+#    youtube = "https://www.youtube.com/channel/UCOKCAUjcTEgdy910X3uQyhQ"
+#    github="http://github.com/maaaathieu4a"
 
-[social]
-    instagram = "https://www.instagram.com/maaaathieu4a"
-    youtube = "https://www.youtube.com/channel/UCOKCAUjcTEgdy910X3uQyhQ"
-    github="http://github.com/maaaathieu4a"
+[permalinks]
+  posts = "/:title/"
 
-[outputs]
-  home = ["HTML", "JSON"]
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
 

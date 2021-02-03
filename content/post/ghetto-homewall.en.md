@@ -14,13 +14,13 @@ total budget is ridiculous since I had most of these things laying around and ac
 
 At the end some isolating pannels were added to the ceiling, which makes it a bit better but obviously was not helping much on the warmest sunniest days.
 
-![wall-space](/static/img/wall/wall-space.jpg)
-![wall-1.0](/static/img/wall/wall-1.0.jpg)
-![wall](/static/img/wall/wall.jpg)
-![wall-detail1](/static/img/wall/wall-detail-1.jpg)
-![wall-detail2](/static/img/wall/wall-detail2.jpg)
-![wall-detail3](/static/img/wall/wall-detail3.jpg)
-![wall-final](/static/img/wall/wall-final.jpg)
+![wall-space](/img/wall/wall-space.jpg)
+![wall-1.0](/img/wall/wall-1.0.jpg)
+![wall](/img/wall/wall.jpg)
+![wall-detail1](/img/wall/wall-detail-1.jpg)
+![wall-detail2](/img/wall/wall-detail2.jpg)
+![wall-detail3](/img/wall/wall-detail3.jpg)
+![wall-final](/img/wall/wall-final.jpg)
 
 
 Special thanks to my dad for lending me that space and who helped me a lot to bring this wall to life.
