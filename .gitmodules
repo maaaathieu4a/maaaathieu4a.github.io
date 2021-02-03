@@ -7,3 +7,6 @@
 [submodule "themes/etch"]
 	path = themes/etch
 	url = https://github.com/LukasJoswiak/etch.git
+[submodule "static/skrom/Phaser3Pong"]
+	path = static/skrom/Phaser3Pong
+	url = https://github.com/nvareille/Phaser3Pong
