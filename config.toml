@@ -1,5 +1,5 @@
 baseURL = "https://maaaathieu4a.github.io/"
-theme = "etch-hack"
+theme = "etch"
 title = "Mathieu blog perso"
 author = "Mathieu"
 
