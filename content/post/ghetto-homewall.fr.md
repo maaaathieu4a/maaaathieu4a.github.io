@@ -15,13 +15,13 @@ Toutes les prises en bois sont faites avec du bois de récup', la majorité en c
 un peu plus tard des panneaux d'isolation ont été ajoutés, évidemment pas très efficaces au plus fort de l'été mais ça aide quand même.
 
 
-![wall-space](/static/img/wall/wall-space.jpg)
-![wall-1.0](/static/img/wall/wall-1.0.jpg)
-![wall](/static/img/wall/wall.jpg)
-![wall-detail1](/static/img/wall/wall-detail1.jpg)
-![wall-detail2](/static/img/wall/wall-detail2.jpg)
-![wall-detail3](/static/img/wall/wall-detail3.jpg)
-![wall-final](/static/img/wall/wall-final.jpg)
+![wall-space](/img/wall/wall-space.jpg)
+![wall-1.0](/img/wall/wall-1.0.jpg)
+![wall](/img/wall/wall.jpg)
+![wall-detail1](/img/wall/wall-detail1.jpg)
+![wall-detail2](/img/wall/wall-detail2.jpg)
+![wall-detail3](/img/wall/wall-detail3.jpg)
+![wall-final](/img/wall/wall-final.jpg)
 
 Remerciements à mon père pour me prêter l'espace et pour son aide précieuse.
 

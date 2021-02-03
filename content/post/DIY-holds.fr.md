@@ -21,10 +21,10 @@ Pour faire simple je pars en général d'un rectangle ou d'un triangle et décid
 
 Les deux facteurs principaux à prendre en compte sont l'angle du bord que l'on va tenir : plutot positif ou fuyant? Et l'arrondi qui va déterminer quel point notre prise sera "coupante".
 Un gros arrondi pourra rendre la prise plus confortable, mais au prix de réduire la surface de contact.
-![very-rounded](/static/img/holds/very-rounded.JPG)
+![very-rounded](/img/holds/very-rounded.JPG)
 
 Un angle fuyant necessitera de se placer "sous la prise" et d'appliquer une force très directionnelle, à l'inverse ce que j'appelle "positif" permettra de "planter les doigts" et d'appliquer une force en tirant plus vers l'extérieur du mur.
-![very-incut](/static/img/holds/very-incut.JPG)
+![very-incut](/img/holds/very-incut.JPG)
 
 
 
@@ -36,7 +36,7 @@ Prévoir 2 à 3 vis en général.
 # Finitions
 
 Pas strictement nécéssaire mais par souci d'esthetique et pour rendre les autres côtés moins utilisables on va les couper de façon à les rendre très fuyants, parfois laisser une place pour le pouce pour pincer.
-![small-edge](/static/img/holds/small-edge.JPG)
+![small-edge](/img/holds/small-edge.JPG)
 
 Evidemment on peut imaginer toutes sorte de formes, varier un peu avec des arrondis, laisser un peu parler la créativité.
 
