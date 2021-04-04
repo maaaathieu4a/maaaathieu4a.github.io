@@ -25,6 +25,14 @@ un peu plus tard des panneaux d'isolation ont été ajoutés, évidemment pas tr
 
 Remerciements à mon père pour me prêter l'espace et pour son aide précieuse.
 
+
+Mise à jour 2021 après arrivage de nouvelles prises et reset :
+![wall-reset](/img/wall/wall-reset.jpg)
+![wall-newholds](/img/wall/wall-newholds.jpg)
+![wall-back](/img/wall/wall-back.jpg)
+
+
+
 {{< css.inline >}}
 <style>
 .canon { background: white; width: 100%; height: auto;}
