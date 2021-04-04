@@ -25,8 +25,19 @@ At the end some isolating pannels were added to the ceiling, which makes it a bi
 
 Special thanks to my dad for lending me that space and who helped me a lot to bring this wall to life.
 
+
+Small 2021 update after getting some new holds and a big reset :
+![wall-reset](/img/wall/wall-reset.jpg)
+![wall-newholds](/img/wall/wall-newholds.jpg)
+![wall-back](/img/wall/wall-back.jpg)
+
+
 {{< css.inline >}}
 <style>
 .canon { background: white; width: 100%; height: auto;}
 </style>
 {{< /css.inline >}}
+
+
+
+
