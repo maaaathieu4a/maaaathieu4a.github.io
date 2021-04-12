@@ -1,6 +1,6 @@
 +++
 author = "Mathieu"
-title = " [en]"
+title = "Entrainement avec une haltère [fr]"
 date = "2021-04-12"
 description = "une idée de plan d'entrainement avec une seule haltère"
 +++
@@ -18,11 +18,6 @@ Je n'avais qu'une petite haltère sous la main (4-5kg?), bricolée maison à bas
 Voilà une petite liste d'exercice avec à la suite proposition cohérente pour un plan d'entrainement assez générique sur la semaine.
 
 
-
-#Ab rollout
-{{< youtube eHOq5vNZpxs >}}
-un classique du gainage, petit bonus avec travail des avant-bras et éventuel travail en épaule sur la fin si capable.
-Attention à l'échec, potentiellement dangereux pour les épaules
 
 #Pompes haltère
 {{< youtube h1qh7OG1mOU >}}
@@ -43,14 +38,20 @@ parce qu'il fallait bien un exercice axé bas du corps, attention c'est dangereu
 pas de vidéo désolé, j'essaierais d'y penser la prochaine fois
 
 #Presse militaire stricte avec contrainte
-{{< youtube TODO 0057 >}}
+{{< youtube ZgpoLqMpSsM >}}
 En tenant la mauvaise partie de l'haltère pour créer une plus forte contrainte d'équilibre.
 soyez créatifs ici on peut imaginer le faire en manual sur un skateboard, ou sur une slackline pour les plus forts
 
 #élévations latérales et frontales
-{{< youtube TODO 0058 >}}
+{{< youtube F6Qd-ZhnnXQ >}}
 Un exercice potentiellement difficile si l'haltère est trop lourde attantion
 Petit travail bonus sur les avant-bras en serrant la "mauvaise" partie de l'haltère
+
+#Ab rollout
+{{< youtube eHOq5vNZpxs >}}
+un classique du gainage, petit bonus avec travail des avant-bras et éventuel travail en épaule sur la fin si capable.
+Attention à l'échec, potentiellement dangereux pour les épaules
+
 
 #Récap et planification : 
 Ce plan ne prévoit pas d'autres exercices, éventuellement du cardio léger et des séances de stretching peuvent s'y ajouter selon les envies.
@@ -61,7 +62,6 @@ Bien s'échauffer au préalable, éventuellement faire quelques répétitions de
 
 notation abrégée : 3x3:1 = 3 séries, 3 répétitions, 1 minute de pause entre les séries. une série = droite puis gauche pour les exercices unilatéraux.
 
-- ab rollout 3x3:1
 
 - pompes haltères 3x5:1 de chaque côté
 
@@ -77,6 +77,7 @@ notation abrégée : 3x3:1 = 3 séries, 3 répétitions, 1 minute de pause entre
 
 - élévations latérales/frontales 3x10:1 (alterner les reps frontales/latérales)
 
+- ab rollout 3x3:1
 
 Attention le volume est significatif cet entrainement est déconseillé si vous n'avez pas un minimum d'expérience, il faudra sans doute ajuster des choses.
 
