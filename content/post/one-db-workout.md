@@ -20,7 +20,7 @@ Voilà une petite liste d'exercice avec à la suite proposition cohérente pour 
 
 
 #Ab rollout
-{{< youtube TODO >}}
+{{< youtube eHOq5vNZpxs >}}
 un classique du gainage, petit bonus avec travail des avant-bras et éventuel travail en épaule sur la fin si capable.
 Attention à l'échec, potentiellement dangereux pour les épaules
 
