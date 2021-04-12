@@ -19,41 +19,41 @@ Voilà une petite liste d'exercice avec à la suite proposition cohérente pour 
 
 
 
-#Pompes haltère
+# Pompes haltère
 {{< youtube h1qh7OG1mOU >}}
 exo difficile mieux vaut commencer à genoux
 
-#Tirage tractions isométrique
+# Tirage tractions isométrique
 {{< youtube 96OeHmyUhZs >}}
 L'isométrique est assez peu utilisé, c'est selon mon expérience très efficace pour le recrutement (effort court et maximal)
 On va aussi ajouter des séries plus longues afin d'ajouter du volume sous tension.
 Idéalement à pratiquer avec le coude à différents angles si l'ont veut un transfert "complet" vers les tractions. (je propose 120, 90, 60)
 Attention, à 60 degrés la position est traumatisante pour certaines structures.
 
-#Squat avec contrainte
+# Squat avec contrainte
 {{< youtube ucQ5oafL8Cc >}}
 parce qu'il fallait bien un exercice axé bas du corps, attention c'est dangereux on peut prendre une mauvaise chute
 
-#Wrist curls 
+# Wrist curls 
 pas de vidéo désolé, j'essaierais d'y penser la prochaine fois
 
-#Presse militaire stricte avec contrainte
+# Presse militaire stricte avec contrainte
 {{< youtube ZgpoLqMpSsM >}}
 En tenant la mauvaise partie de l'haltère pour créer une plus forte contrainte d'équilibre.
 soyez créatifs ici on peut imaginer le faire en manual sur un skateboard, ou sur une slackline pour les plus forts
 
-#élévations latérales et frontales
+# élévations latérales et frontales
 {{< youtube F6Qd-ZhnnXQ >}}
 Un exercice potentiellement difficile si l'haltère est trop lourde attantion
 Petit travail bonus sur les avant-bras en serrant la "mauvaise" partie de l'haltère
 
-#Ab rollout
+# Ab rollout
 {{< youtube eHOq5vNZpxs >}}
 un classique du gainage, petit bonus avec travail des avant-bras et éventuel travail en épaule sur la fin si capable.
 Attention à l'échec, potentiellement dangereux pour les épaules
 
 
-#Récap et planification : 
+# Récap et planification : 
 Ce plan ne prévoit pas d'autres exercices, éventuellement du cardio léger et des séances de stretching peuvent s'y ajouter selon les envies.
 à faire 2-3fois par semaine pendant 3 semaines puis prendre une semaine de repos / plus light, répéter le mois suivant pour un bloc de 6-8 semaines.
 
