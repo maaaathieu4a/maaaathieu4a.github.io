@@ -10,3 +10,6 @@
 [submodule "static/skrom/Phaser3Pong"]
 	path = static/skrom/Phaser3Pong
 	url = https://github.com/nvareille/Phaser3Pong
+[submodule "static/malevolus"]
+	path = static/malevolus
+	url = git@github.com:maaaathieu4a/malevolus.git
