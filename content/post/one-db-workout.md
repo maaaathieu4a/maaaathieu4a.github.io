@@ -55,7 +55,11 @@ Attention à l'échec, potentiellement dangereux pour les épaules
 
 # Récap et planification : 
 Ce plan ne prévoit pas d'autres exercices, éventuellement du cardio léger et des séances de stretching peuvent s'y ajouter selon les envies.
-à faire 2-3fois par semaine pendant 3 semaines puis prendre une semaine de repos / plus light, répéter le mois suivant pour un bloc de 6-8 semaines.
+à faire 2 fois par semaine pendant 3 semaines puis prendre une semaine de repos / plus light, répéter le mois suivant pour un bloc de 6-8 semaines.
+Possibilité d'ajouter un 3eme jour léger, mais le but est d'être frais pour l'entrainement pour pouvoir faire de la force.
+Une autre méthode possiblement mieux serait de faire un split pour ne pas faire tous les exercices le même jour et accuser ainsi moins de fatigue.
+Encore une fois ceci n'est qu'un exercice de style ayant pour but de stimuler la créativité, pas un plan réellement recommandé.
+
 
 Bien s'échauffer au préalable, éventuellement faire quelques répétitions de chaque exercice dans une variante plus facile pour être prêt à bien forcer.
 
@@ -65,9 +69,11 @@ notation abrégée : 3x3:1 = 3 séries, 3 répétitions, 1 minute de pause entre
 
 - pompes haltères 3x5:1 de chaque côté
 
-- tractions haltère en isométrique recrutement 6x6-9secondes effort presque max (2x à chaque angle 60-90-120)
+- tractions haltère en isométrique pronation recrutement 6x6-9secondes effort presque max (2x à chaque angle 60-90-120)
 
-- tractions haltère en isométrique volume : 3x30secondes en mainteannt un effort soutenu "stable" sur toute la durée (une fois à chaque angle)
+- tractions haltère en isométrique pronation volume : 3x30secondes en mainteannt un effort soutenu "stable" sur toute la durée (une fois à chaque angle)
+
+- tractions haltère en isométrique supination volume : 3x30secondes en mainteannt un effort soutenu "stable" sur toute la durée (une fois à chaque angle)
 
 - Squat 3x3:1 
 
