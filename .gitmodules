@@ -1,15 +1,3 @@
-[submodule "themes/hugo-theme-tokiwa"]
-	path = themes/hugo-theme-tokiwa
-	url = https://github.com/heyeshuang/hugo-theme-tokiwa.git
-[submodule "themes/themes/etch"]
-	path = themes/themes/etch
-	url = https://github.com/LukasJoswiak/etch.git
 [submodule "themes/etch"]
 	path = themes/etch
 	url = https://github.com/LukasJoswiak/etch.git
-[submodule "static/skrom/Phaser3Pong"]
-	path = static/skrom/Phaser3Pong
-	url = https://github.com/nvareille/Phaser3Pong
-[submodule "static/malevolus"]
-	path = static/malevolus
-	url = git@github.com:maaaathieu4a/malevolus.git
