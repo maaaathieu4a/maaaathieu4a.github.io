@@ -1,0 +1,46 @@
+baseURL = "https://maaaathieu4a.github.io/"
+theme = "etch"
+title = "Mathieu blog perso"
+author = "Mathieu"
+
+publishDir = "./"
+languageCode = "fr"
+DefaultContentLanguage = "fr"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+
+[params]
+description = "Bienvenue sur mon blog"
+dark = "auto"
+highlight = "true"
+favicon = "static/img/favicon-32.png"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+#[social]
+#    instagram = "https://www.instagram.com/maaaathieu4a"
+#    youtube = "https://www.youtube.com/channel/UCOKCAUjcTEgdy910X3uQyhQ"
+#    github="http://github.com/maaaathieu4a"
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
+
